@@ -1,9 +1,8 @@
 # Service Beta
 
-A demo service in jeff-relay-org-1 for Cortex relay migration testing.
+A demo service — now living in jeff-relay-org-2.
 
-## Purpose
+## Status
 
-This service demonstrates how Cortex GitOps works with Axon Relay connections.
-No alias is specified in cortex.yaml — the service uses whichever GitHub integration
-is configured as the default relay in Cortex.
+Repos have been transferred to jeff-relay-org-2, but the Cortex default relay
+is still jeff-relay-org-1. This change should NOT appear in Cortex.
