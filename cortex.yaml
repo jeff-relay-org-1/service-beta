@@ -1,9 +1,9 @@
 openapi: 3.0.1
 info:
-  title: Service Beta - SHOULD NOT APPEAR
+  title: Service Beta
   x-cortex-tag: service-beta
   x-cortex-type: service
-  x-cortex-description: THIS CHANGE SHOULD NOT BE PICKED UP - no webhook in org-2
+  x-cortex-description: Now served by jeff-relay-org-2 relay - webhook test
   x-cortex-git:
     github:
       repository: jeff-relay-org-1/service-beta
