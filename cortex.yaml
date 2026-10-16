@@ -3,8 +3,8 @@ info:
   title: Service Beta
   x-cortex-tag: service-beta
   x-cortex-type: service
-  x-cortex-description: Now served by jeff-relay-org-2 relay - webhook test
+  x-cortex-description: Migrated to jeff-relay-org-2
   x-cortex-git:
     github:
-      repository: jeff-relay-org-1/service-beta
+      repository: jeff-relay-org-2/service-beta
 paths: {}
